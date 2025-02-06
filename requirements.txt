@@ -1,0 +1,7 @@
+numpy==2.2.2
+pandas==2.2.3
+scikit_learn==1.6.1
+sentence_transformers==3.2.1
+torch==2.3.0
+tqdm==4.67.0
+transformers==4.45.2
